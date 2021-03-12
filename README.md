@@ -6,7 +6,7 @@
 * Function 2 prints the name of the user backwards. 
 * Function 3 returns the user's number square rooted plus 1000. 
 
-**How to install:**  The file is an .ipynb file. We recommend cloning the file here on Github and then opening it in Jupyter Lab for best results. The file should show up as Lab5-Exercise-Main-Program-checkpoint.ipynb .
+**How to install:**  The file is an .ipynb file. We recommend cloning the file here on Github and then opening it in Jupyter Lab for best results. It can also be run in an IDE like VS Code if you have the proper extension. The file should show up as Lab5-Exercise-Main-Program-checkpoint.ipynb .
 
 **How to use:** You can run this program in the IDE of your choice. Right now, the program can only perform functions 1, 2, and 3. If you try to input a different function number, the program will tell you it is invalid. 
 
